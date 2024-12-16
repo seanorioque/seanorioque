@@ -23,6 +23,8 @@
     <li>
         <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D3253DC3EB8FCB05E2C2FD8EDE344A0FB4E8D5C102A2F2A56F16A12E59DE2166"> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a>
     </li>
+    <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=AB3357B6A26A740871EA824AB39DF1A132660906EF0724BB0CB45E3FD8079FE9">Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate </a>
+    </li>
 </ul>
 
 <h2>SKILL SETS</h2>
