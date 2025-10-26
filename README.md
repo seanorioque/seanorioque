@@ -60,7 +60,7 @@
 
 ---
 
-<h2>📊 GITHUB STATS (Optional)</h2>
+<h2>📊 GITHUB STATS </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seanorioque&show_icons=true&theme=tokyonight" alt="Sean's GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanorioque&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
