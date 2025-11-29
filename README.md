@@ -42,15 +42,7 @@
 
 ---
 
-<h2>💻 SKILL SETS</h2>
-<ul>
-  <li><strong>Programming:</strong> Java</li>
-  <li><strong>Databases:</strong> IBM DB2 Cloud, MySQL</li>
-  <li><strong>Tools & Technologies:</strong> Visual Studio Code, Eclipse, Lucidchart, HTML</li>
-  <li><strong>Interests:</strong> Software Development, Cloud Computing, Database Design</li>
-</ul>
 
----
 
 <h2>📫 LET'S CONNECT!</h2>
 <p>
