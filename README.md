@@ -14,8 +14,7 @@ const sean = {
     location: "Philippines 🇵🇭",
     education: "Computer Science @ New Era University",
     currentStatus: "Turning coffee into code ☕→💻",
-    hobbies: ["Coding", "Breaking things (then fixing them)", "Learning new tech"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😎"
+    hobbies: ["Coding", "Cooking", "Learning new tech"],
 };
 ```
 
@@ -25,12 +24,15 @@ const sean = {
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
@@ -54,10 +56,8 @@ const sean = {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=seanorioque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sean's GitHub stats" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=seanorioque&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanorioque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
 
 </div>
 
@@ -83,8 +83,6 @@ while alive:
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Watch my contribution graph get eaten!
-![Snake animation](https://github.com/seanorioque/seanorioque/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -104,7 +102,6 @@ while alive:
 
 <div align="center">
   
-### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seanorioque&color=0078ff&style=flat-square)
 
