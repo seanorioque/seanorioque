@@ -50,18 +50,6 @@ const sean = {
 
 </details>
 
----
-
-## 📊 GitHub Stats That Actually Matter
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seanorioque&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180"/>
-
-
-</div>
-
----
 
 ## 🎯 Current Mission
 ```python
@@ -86,25 +74,3 @@ while alive:
 
 </div>
 
----
-
-## 📬 Let's Build Something Cool Together!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-orioque)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seanorioque23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seanorioque)
-
-</div>
-
----
-
-<div align="center">
-  
-
-![Profile Views](https://komarev.com/ghpvc/?username=seanorioque&color=0078ff&style=flat-square)
-
-**Thanks for stopping by! Now go build something awesome! 🚀**
-
-</div>
